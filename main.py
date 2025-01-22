@@ -1,6 +1,5 @@
 
-import math
-from idlelib.debugger_r import restart_subprocess_debugger
+
 
 
 def convert_to_hashtag(some_text):
